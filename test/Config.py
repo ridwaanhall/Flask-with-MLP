@@ -1,0 +1,1 @@
+BASE_URL = "https://4a2d2b78-b1ba-45b3-adc3-01e29dd7d8b8-00-3th0td5wswutu.pike.replit.dev"
